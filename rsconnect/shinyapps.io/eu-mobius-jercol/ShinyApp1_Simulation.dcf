@@ -1,0 +1,9 @@
+name: ShinyApp1_Simulation
+account: eu-mobius-jercol
+server: shinyapps.io
+appId: 105519
+bundleId: 467252
+url: https://eu-mobius-jercol.shinyapps.io/ShinyApp1_Simulation/
+when: 1464707808.13637
+asMultiple: FALSE
+asStatic: FALSE
